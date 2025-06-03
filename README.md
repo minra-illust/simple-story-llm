@@ -9,7 +9,9 @@ If you've read about "Aida", it's a placeholder name I used for the LLM. You can
 2. Set DEEPSEEK_API_KEY env
 3. Run main_gui.py
 4. Click on a chapter name to edit the chapter details and see the logs
-5. Right click a chapter to generate the whole sequence
+5. Use this format for parts: "This happened // and then // and then // finally..". This specifies the beats in the story. You can add any number of beats.
+6. Right click a chapter to generate the whole sequence
+7. Generate one chapter or part at a time
 
 You might want to edit the prompt used to generate the text. Go to src/system/aida/simple_prompt.md and edit it. The only important part is the <NARRATION_LOG></NARRATION_LOG> section.
 
