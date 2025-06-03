@@ -1,0 +1,1 @@
+Standard Little Red Riding Hood character
