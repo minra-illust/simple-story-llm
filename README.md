@@ -25,7 +25,7 @@ https://lit.link/en/minra
 
 MIT License
 
-Copyright (c) 2025 minra_illust
+Copyright (c) 2025 minra-illust
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
