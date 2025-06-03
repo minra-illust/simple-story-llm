@@ -6,9 +6,10 @@ If you've read about "Aida", it's a placeholder name I used for the LLM. You can
 ![Screenshot](ss.png)
 
 1. Install requisites. You can use UV.
-2. Run main_gui.py
-3. Click on a chapter name to edit the chapter details and see the logs
-4. Right click a chapter to generate the whole sequence
+2. Set DEEPSEEK_API_KEY env
+3. Run main_gui.py
+4. Click on a chapter name to edit the chapter details and see the logs
+5. Right click a chapter to generate the whole sequence
 
 You might want to edit the prompt used to generate the text. Go to src/system/aida/simple_prompt.md and edit it. The only important part is the <NARRATION_LOG></NARRATION_LOG> section.
 
